@@ -1,0 +1,17 @@
+D:\boatService\boatV1\Boat.Framework\bin\Debug\netcoreapp2.1\Boat.Framework.deps.json
+D:\boatService\boatV1\Boat.Framework\bin\Debug\netcoreapp2.1\Boat.Framework.dll
+D:\boatService\boatV1\Boat.Framework\obj\Debug\netcoreapp2.1\Boat.Framework.csproj.CoreCompileInputs.cache
+D:\boatService\boatV1\Boat.Framework\obj\Debug\netcoreapp2.1\Boat.Framework.AssemblyInfoInputs.cache
+D:\boatService\boatV1\Boat.Framework\obj\Debug\netcoreapp2.1\Boat.Framework.AssemblyInfo.cs
+D:\boatService\boatV1\Boat.Framework\bin\Debug\netcoreapp2.1\Boat.Framework.pdb
+D:\boatService\boatV1\Boat.Framework\obj\Debug\netcoreapp2.1\Boat.Framework.dll
+D:\boatService\boatV1\Boat.Framework\obj\Debug\netcoreapp2.1\Boat.Framework.pdb
+C:\Git\boatV1\boatV1-master\Boat.Framework\bin\Debug\netcoreapp2.1\Boat.Framework.deps.json
+C:\Git\boatV1\boatV1-master\Boat.Framework\bin\Debug\netcoreapp2.1\Boat.Framework.dll
+C:\Git\boatV1\boatV1-master\Boat.Framework\bin\Debug\netcoreapp2.1\Boat.Framework.pdb
+C:\Git\boatV1\boatV1-master\Boat.Framework\obj\Debug\netcoreapp2.1\Boat.Framework.csproj.CoreCompileInputs.cache
+C:\Git\boatV1\boatV1-master\Boat.Framework\obj\Debug\netcoreapp2.1\Boat.Framework.AssemblyInfoInputs.cache
+C:\Git\boatV1\boatV1-master\Boat.Framework\obj\Debug\netcoreapp2.1\Boat.Framework.AssemblyInfo.cs
+C:\Git\boatV1\boatV1-master\Boat.Framework\obj\Debug\netcoreapp2.1\Boat.Framework.dll
+C:\Git\boatV1\boatV1-master\Boat.Framework\obj\Debug\netcoreapp2.1\Boat.Framework.pdb
+C:\Git\boatV1\boatV1-master\Boat.Framework\obj\Debug\netcoreapp2.1\Boat.Framework.csprojAssemblyReference.cache

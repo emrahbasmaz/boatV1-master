@@ -1,0 +1,9 @@
+
+.tools/linq2db.t4models/Init.ps1
+.tools/linq2db.t4models/linq2db.dll
+.vs/boatV1/DesignTimeBuild/.dtbcache
+.vs/boatV1/v15/.suo
+.vs/boatV1/v15/Server/sqlite3/db.lock
+.vs/boatV1/v15/Server/sqlite3/storage.ide
+.vs/boatV1/v15/Server/sqlite3/storage.ide-shm
+.vs/boatV1/v15/Server/sqlite3/storage.ide-wal

@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Base\**" />
+    <Compile Remove="DataModel\BoatModule\Service\**" />
+    <Compile Remove="DataModel\CustomerModule\Service\**" />
+    <Compile Remove="DataModel\GeneralModule\Service\**" />
+    <Compile Remove="DataModel\PaymentModule\Service\**" />
+    <Compile Remove="Interface\**" />
+    <Compile Remove="Utility\**" />
+    <EmbeddedResource Remove="Base\**" />
+    <EmbeddedResource Remove="DataModel\BoatModule\Service\**" />
+    <EmbeddedResource Remove="DataModel\CustomerModule\Service\**" />
+    <EmbeddedResource Remove="DataModel\GeneralModule\Service\**" />
+    <EmbeddedResource Remove="DataModel\PaymentModule\Service\**" />
+    <EmbeddedResource Remove="Interface\**" />
+    <EmbeddedResource Remove="Utility\**" />
+    <None Remove="Base\**" />
+    <None Remove="DataModel\BoatModule\Service\**" />
+    <None Remove="DataModel\CustomerModule\Service\**" />
+    <None Remove="DataModel\GeneralModule\Service\**" />
+    <None Remove="DataModel\PaymentModule\Service\**" />
+    <None Remove="Interface\**" />
+    <None Remove="Utility\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="1.50.5" />
+    <PackageReference Include="Dapper.Contrib" Version="1.50.5" />
+    <PackageReference Include="log4net" Version="2.0.8" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Boat.Framework\Boat.Framework.csproj" />
+  </ItemGroup>
+
+</Project>
